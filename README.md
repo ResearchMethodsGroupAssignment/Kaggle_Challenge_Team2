@@ -31,4 +31,4 @@ This project uses data from the Kaggle Space Titanic challenge. Thanks to Kaggle
 
 
 Contact Information
-For any questions or comments about this analysis, please contact me at dheebathangaraj@gmail.com , aromadzousa20@gmail.com, sherindorothy@gmail.com, sahnu248@gmail.com, aakhashdivagaran@gmail.com
+For any questions or comments about this analysis, please contact me at dheebathangaraj@gmail.com , aromadsouza20@gmail.com, sherindorothy@gmail.com, sahnu248@gmail.com, aakhashdivagaran@gmail.com
